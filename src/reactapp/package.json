@@ -11,7 +11,7 @@
     "@icongo/vsc": "^1.1.2",
     "@microsoft/mgt": "^2.9.0",
     "@microsoft/mgt-element": "^2.9.0",
-    "@microsoft/mgt-msal2-provider": "^2.9.0",
+    "@microsoft/mgt-msal2-provider": "^4.2.1",
     "@microsoft/mgt-react": "^2.9.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
